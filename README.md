@@ -8,14 +8,26 @@
 
 👯 Open to collaboration for innovative creations | Let's turn ideas into captivating realities together!"
 
+## Frontend 💻
 
-## Frontend 💻              ## Backend ⚙️               ## DevOps 🛠️
+🚀 React | HTML5 | CSS3
+🎨 UI/UX Design | Responsive Web Design
 
-🚀 React | HTML5 | CSS3     🔧 Node.js | Express.js    🐳 Docker | 🚀 Jenkins
-🎨 UI/UX Design            🗄️ Database Management    📦 Package Management
-🌐 Responsive Web Design   🌐 RESTful APIs           🔧 Deployment and CI/CD
+---
 
+## Backend ⚙️
 
+🔧 Node.js | Express.js
+🗄️ Database Management
+🌐 RESTful APIs
+
+---
+
+## DevOps 🛠️
+
+🐳 Docker | 🚀 Jenkins
+📦 Package Management
+🔧 Deployment and CI/CD
 
 <!---
 sohaibzafar701/sohaibzafar701 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
