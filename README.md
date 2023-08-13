@@ -30,6 +30,14 @@
 - AWS
 - Git
 
+## Contact Me
+
+
+You can reach out to me on Twitter and LinkedIn:
+
+[<img src="twitter-icon.png" width="30">](https://twitter.com/your-twitter-handle)
+[<img src="linkedin-icon.png" width="30">](https://www.linkedin.com/in/your-linkedin-profile)
+
 
 
 <!---
