@@ -21,19 +21,14 @@
 - Node.js
 - Express.js
 - MongoDB
+- php
 - Python
+- c++
 
 ### DevOps 🛠️
 
 - AWS
 - Git
-
-- | Frontend | Backend | DevOps |
-| -------- | ------- | ------ |
-| Tool 1   | Tool 4  | Tool 7 |
-| Tool 2   | Tool 5  | Tool 8 |
-| Tool 3   | Tool 6  | Tool 9 |
-
 
 
 
