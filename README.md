@@ -15,6 +15,7 @@
 - HTML5
 - CSS3
 - JavaScript
+- tailwind
 
 ### Backend ⚙️
 
