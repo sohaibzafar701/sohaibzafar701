@@ -15,6 +15,8 @@
 - HTML5
 - CSS3
 - JavaScript
+- three js
+- framer motion
 - tailwind
 
 ### Backend ⚙️
