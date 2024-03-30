@@ -1,12 +1,11 @@
 👋 Hello there! I'm Sohaib Zafar, a passionate web developer and designer from Pakistan 🇵🇰.
 
-🚀 Passionate React enthusiast crafting user experiences
+🚀 Interests also include Cyber Security as well :)
 
-✨ Professional React JS developer
-
-⚡ Embarking on a MERN stack journey
+😺 I Just love cats soo much 😹
 
 👯 Open to collaboration for innovative creations | Let's turn ideas into captivating realities together!"
+
 ## My Skill Set
 
 ### Frontend 💻
