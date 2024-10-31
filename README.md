@@ -8,7 +8,7 @@
 - 🚀 I’m currently working on Web Development. 
   
 
-- 🌱 I’m learning all about Tailwind CSS. 
+- 🌱 I’m learning all about MERN. 
   
 
 - 👯 I’m looking to collaborate on any web dev related projects  
