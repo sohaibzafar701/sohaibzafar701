@@ -1,14 +1,14 @@
-### <div align="center">Hi, I'm <a href="https://www.linkedin.com/in/sohaib-zafar701/">Sohaib</a>, a Web Dev enthusiast 👨‍💻</div>  
+### <div align="center">Hi, I'm <a href="https://www.linkedin.com/in/sohaib-zafar701/">Sohaib</a>, a AI/ML Intern 👨‍💻</div>  
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
   
 <br>
 
-- 🚀 I’m currently working on Web Development. 
+- 🚀 I’m currently working on Machine Learning & Computer Vision. 
   
 
-- 🌱 I’m learning all about MERN. 
+- 🌱 I’m learning all about Artificial intelligence & Machine Learning. 
   
 
 - 👯 I’m looking to collaborate on any web dev related projects  
@@ -69,7 +69,3 @@
 
 <br/>  
 
-<!---
-sohaibzafar701/sohaibzafar701 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
