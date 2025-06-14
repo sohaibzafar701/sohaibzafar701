@@ -1,21 +1,14 @@
-### <div align="center">Hi, I'm <a href="https://www.linkedin.com/in/sohaib-zafar701/">Sohaib</a>, an AI/ML Intern 👨‍💻</div>  
+### <div align="center">Hi, I'm <a href="https://www.linkedin.com/in/sohaib-zafar701/">Sohaib</a>, An AI/ML Innovator | Crafting Intelligent Systems with Python & Beyond</div>  
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
   
 <br>
 
-- 🚀 I’m currently working on Machine Learning & Computer Vision. 
-  
-
-- 🌱 I’m learning all about Artificial intelligence & Machine Learning. 
-  
-
-- 👯 I’m looking to collaborate on any web dev related projects  
-  
-
-- 😺 I Just love cats soo much 😹
-
+- 🚀 **Currently working on**: Advanced AI/ML solutions in NLP, computer vision, and multimodal systems.
+- 🌱 **Learning**: Deep dives into Vertical AI, vector databases, generative AI, and scalable MLOps pipelines.
+- 👥 **Open to collaborating on**: Innovative AI-driven tools, open-source ML projects, or cutting-edge applications.
+- 😺 **Fun fact**: I’m a huge cat lover! 🐾 
 <br/>  
 
 
